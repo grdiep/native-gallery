@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">native-gallery</string>
+    <string name="photoService">PhotoService</string>
+    <string name="images_on_device">Images on device.</string>
+    <string name="permission_already_granted">Permission already granted.</string>
+    <string name="storage_permission_granted">Storage permission granted.</string>
+    <string name="storage_permission_denied">Storage permission denied.</string>
+    <string name="how_did_you_like_the_gallery">How did you like the gallery?</string>
+    <string name="send_feedback">Send feedback</string>
+    <string name="thanks_for_your_feedback">Thanks for your feedback!</string>
+    <string name="we_will_use_it_to_improve_the_gallery">We will use it to improve the gallery!</string>
+    <string name="would_you_be_interested">Would you be interested in any of these additions to the gallery?</string>
+    <string name="detect_audio_files">Detect audio files</string>
+    <string name="detect_memes">Detect memes</string>
+    <string name="we_are_sorry">We are sorry to hear you did not enjoy the gallery. What can we improve on?</string>
+    <string name="i_do_not_like_the_style">I do not like the style</string>
+    <string name="i_hate_the_developer">I hate the developer</string>
+</resources>
