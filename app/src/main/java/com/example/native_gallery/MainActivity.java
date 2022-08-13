@@ -72,7 +72,7 @@ public class MainActivity extends AppCompatActivity implements RecyclerAdapter.O
 
         new myTask().execute();
 
-//        openDialog(this);
+        openDialog(this);
     }
 
     private BroadcastReceiver receiver = new BroadcastReceiver() {
