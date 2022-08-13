@@ -70,7 +70,7 @@ public class MainActivity extends AppCompatActivity implements RecyclerAdapter.O
         LocalBroadcastManager.getInstance(this).registerReceiver(receiver, intentFilter);
         //intent filters listens to specific action from the intent
 
-        new myTask().execute();
+//        new myTask().execute();
 
         openDialog(this);
     }
